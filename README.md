@@ -31,21 +31,19 @@ h3 {
 </head>    
 <body>
     <div id="content">
-        <h1>Sarah Gothard</h1>
-        <h2>Freshman in Greenville, South Carolina</h2>
+        <h1>Renzor Cauthorne</h1>
+        <h2>Senior in Pound, Virginia</h2>
         
-         <p>I am a freshman at Bob Jones University studying computer science with a minor in 
-            mathematics. I work for the Computer Science department as a lab monitor.</p>
+         <p>I am a distance learning student who is planing to attend Bob Jones University next fall. I am planning on studing political science.</p>
          <p>
-            I attend Cornerstone Baptist Church in Greer SC. My favorite website is  
-            <a href="https://mobilehymns.org/">here</a>, and you can email me  
-            <a href="mailto:sgothard@bju.edu">here</a>.
+            I attend Calvary Baptist Church in Clintwood VA. and you can email me  
+            <a href="mailto:ecaut231@students.bju.edu">here</a>.
          </p> 
          <p>
-            I enjoy listening to podcasts and having deep conversations.
+            I enjoy coin collecting and soccer.
          </p>
         <h3>EDUCATION</h3>
-        Computer Science<br />
+        Distance learning<br />
         Bob Jones University
     </div>
 </body>
